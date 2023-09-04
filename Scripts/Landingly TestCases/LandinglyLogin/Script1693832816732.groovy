@@ -19,15 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://talkibble.com/login')
+WebUI.navigateToUrl('https://app.landingly.com/')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Talkibble  Login/input__password'), 'IMU+RGWwetr3hy+gDCkisg==')
+WebUI.setText(findTestObject('Object Repository/Page_Landingly  Login/input_Email_login-email'), 'sqaahmadtahir@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_Talkibble  Login/input__email'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Landingly  Login/input_Forgot Password_login-password'), '/5S6MFFLcE5DAenbZpYNsQ==')
 
-WebUI.setText(findTestObject('Object Repository/Page_Talkibble  Login/input__email'), 'muhammad.junaidkhalid78+vipteach@gmail.com')
-
-WebUI.click(findTestObject('Object Repository/Page_Talkibble  Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_Landingly  Login/button_Sign in'))
 
 WebUI.closeBrowser()
 

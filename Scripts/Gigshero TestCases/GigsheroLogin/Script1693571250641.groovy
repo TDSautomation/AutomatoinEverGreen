@@ -17,3 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://app.gigshero.com/login.php')
+
+WebUI.setText(findTestObject('Object Repository/Page_Gigs Hero/input_Close_username'), 'muhammad.junaidkhalid78@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Gigs Hero/input_Please provide a valid Username_password'), 
+    '/5S6MFFLcE5DAenbZpYNsQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_Gigs Hero/button_Sign In'))
+
+WebUI.closeBrowser()
+
