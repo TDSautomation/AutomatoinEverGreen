@@ -29,7 +29,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_eCoverly  Click. C
 
 WebUI.click(findTestObject('Object Repository/Page_eCoverly  Click. Craft. Create - eCoverly/button_Login'))
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/Page_eCoverly - Dashboard/svg_Submit_svg-inline--fa fa-xmark'))
 
 WebUI.closeBrowser()
-

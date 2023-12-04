@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+All products login Test Suite,,,,2023-12-01 16:17:03,2023-12-01 16:18:56,1m - 52.730s,FAILED
+,,,,,,,
+Test Cases/e coverly,,,,2023-12-01 16:17:04,2023-12-01 16:17:29,24.768s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:17:05,2023-12-01 16:17:12,6.988s,PASSED
+"navigateToUrl(""https://ecoverly.net/Account/Login?ReturnUrl=%2F"")",,,,2023-12-01 16:17:12,2023-12-01 16:17:26,13.478s,PASSED
+"setText(findTestObject(""Object Repository/Page_eCoverly  Click. Craft. Create - eCoverly/input_Login to your account_Email""), ""sqaahmadtahir@gmail.com"")",,,,2023-12-01 16:17:26,2023-12-01 16:17:29,2.916s,FAILED
+,,,,,,,
+Test Cases/Ecoverly TestCases/EcoverlyLogin,,,,2023-12-01 16:17:29,2023-12-01 16:17:56,26.859s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:17:33,2023-12-01 16:17:37,3.699s,PASSED
+"navigateToUrl(""https://ecoverly.net/"")",,,,2023-12-01 16:17:37,2023-12-01 16:17:54,17.593s,PASSED
+"setText(findTestObject(""Object Repository/Page_eCoverly  Click. Craft. Create - eCoverly/input_Login to your account_Email""), ""Sqaahmadtahir@gmail.com"")",,,,2023-12-01 16:17:54,2023-12-01 16:17:56,1.639s,FAILED
+,,,,,,,
+Test Cases/Landingly TestCases/LandinglyLogin,,,,2023-12-01 16:17:56,2023-12-01 16:18:07,10.544s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:17:58,2023-12-01 16:18:01,2.929s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",,,,2023-12-01 16:18:01,2023-12-01 16:18:06,5.602s,PASSED
+"setText(findTestObject(""Object Repository/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",,,,2023-12-01 16:18:06,2023-12-01 16:18:06,0.360s,FAILED
+,,,,,,,
+Test Cases/Gigshero TestCases/GigsheroLogin,,,,2023-12-01 16:18:07,2023-12-01 16:18:14,7.085s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:18:07,2023-12-01 16:18:10,2.754s,PASSED
+"navigateToUrl(""https://app.gigshero.com/login.php"")",,,,2023-12-01 16:18:10,2023-12-01 16:18:13,3.046s,PASSED
+"setText(findTestObject(""Object Repository/Page_Gigs Hero/input_Close_username""), ""muhammad.junaidkhalid78@gmail.com"")",,,,2023-12-01 16:18:13,2023-12-01 16:18:14,0.644s,FAILED
+,,,,,,,
+Test Cases/Prezentar TestCases/PrezentarLogin,,,,2023-12-01 16:18:14,2023-12-01 16:18:22,8.081s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:18:14,2023-12-01 16:18:17,2.782s,PASSED
+"navigateToUrl(""https://prezentar.net/Account/Login?ReturnUrl=%2F"")",,,,2023-12-01 16:18:17,2023-12-01 16:18:21,3.937s,PASSED
+"click(findTestObject(""Object Repository/Page_Prezentar - Login/input_LOG IN_Email""))",,,,2023-12-01 16:18:21,2023-12-01 16:18:22,0.772s,FAILED
+,,,,,,,
+Test Cases/Sqribble TestCases/SqribbleLogin,,,,2023-12-01 16:18:22,2023-12-01 16:18:31,9.743s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:18:23,2023-12-01 16:18:26,2.956s,PASSED
+"navigateToUrl(""https://sqribble.net/"")",,,,2023-12-01 16:18:26,2023-12-01 16:18:31,5.291s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sqribble - Sign In/input_LOG IN_email""), ""user.ahmadtahir@sqribble.com"")",,,,2023-12-01 16:18:31,2023-12-01 16:18:31,0.612s,FAILED
+,,,,,,,
+Test Cases/Talkibble TestCases/TalkibbleLogin,,,,2023-12-01 16:18:31,2023-12-01 16:18:50,18.039s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:18:32,2023-12-01 16:18:35,2.786s,PASSED
+"navigateToUrl(""https://talkibble.com/login"")",,,,2023-12-01 16:18:35,2023-12-01 16:18:49,13.956s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Talkibble  Login/input__password""), ""IMU+RGWwetr3hy+gDCkisg=="")",,,,2023-12-01 16:18:49,2023-12-01 16:18:50,0.578s,FAILED
+,,,,,,,
+Test Cases/Teachingly TestCases/TeachinglyLogin,,,,2023-12-01 16:18:50,2023-12-01 16:18:56,6.432s,FAILED
+"openBrowser("""")",,,,2023-12-01 16:18:50,2023-12-01 16:18:53,2.669s,PASSED
+"navigateToUrl(""https://teachingly.com/login#teacher-login"")",,,,2023-12-01 16:18:53,2023-12-01 16:18:55,2.361s,PASSED
+"setText(findTestObject(""Object Repository/Page_Teachingly/input_Teacher Login_email""), ""jkhalid@thinkdonesolutions.com"")",,,,2023-12-01 16:18:55,2023-12-01 16:18:56,0.502s,FAILED

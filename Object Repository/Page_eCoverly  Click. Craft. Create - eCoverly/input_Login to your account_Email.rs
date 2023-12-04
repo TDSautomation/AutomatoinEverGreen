@@ -6,12 +6,12 @@
    <elementGuidId>052f5592-4b48-4b5d-910b-dddd09ca5bf9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#Email</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='Email']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Email</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>34ed417b-f7b0-4f25-bbe3-4ae2b1fb0179</webElementGuid>
+      <webElementGuid>01f5068a-d808-4ae7-ab14-3cbd13fe1c37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>056e4b8f-3605-4fbc-b8c2-55b68eaa4463</webElementGuid>
+      <webElementGuid>fd1ce9c5-4ecf-4e0d-aa72-a1782d8105fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b538dce1-3db2-45b9-829f-89fc0bff8981</webElementGuid>
+      <webElementGuid>dd0cb50b-b63a-42e5-83b4-f41c68c08c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-email</name>
       <type>Main</type>
       <value>Email address is invalid</value>
-      <webElementGuid>5ca91cdc-7880-4db4-bf3a-2305ebd7d847</webElementGuid>
+      <webElementGuid>96af1b04-26b1-48aa-a35f-7930f3b1e8b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Email is required</value>
-      <webElementGuid>a727d7b6-f482-48b1-848a-53350724e253</webElementGuid>
+      <webElementGuid>50e5b8b6-5f80-4824-b9b3-da37b20b492f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>f3b75a76-4f51-407a-8d43-7e467891b2cc</webElementGuid>
+      <webElementGuid>1c6f2f2b-58a4-4f8d-9588-a14dc1700dc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>57706cfa-5944-4a67-9650-325019985176</webElementGuid>
+      <webElementGuid>4b3eaff6-caa1-4d6b-8536-ab5d61550f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>63ff3bad-5ed3-4396-9dfa-28bb788aed05</webElementGuid>
+      <webElementGuid>50f9df03-352c-4fda-8d3c-59679e6f8cf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>d32f7cf5-77b0-4e25-a7a4-d8bf1c492d98</webElementGuid>
+      <webElementGuid>1bafad23-1210-46be-a356-75faa9dcf81e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>da7eb4d3-ffba-4d58-819a-b7e572bb97df</webElementGuid>
+      <webElementGuid>d6535197-6e3d-4dee-b010-105b671e6c54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2ba8a014-5f7c-4986-9b3b-a0765497fa9c</webElementGuid>
+      <webElementGuid>b6afd0cd-f370-4931-834b-ef68a7816d6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Email&quot;)</value>
-      <webElementGuid>70907b9e-5ccc-4fbe-b11d-b0d1a0801951</webElementGuid>
+      <webElementGuid>49fb069d-eda0-4fe7-a911-994427f21922</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Email']</value>
-      <webElementGuid>b91b636c-17ba-4763-bc8b-16fb413db5b6</webElementGuid>
+      <webElementGuid>865ad7eb-6502-413f-a061-84769e834194</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login-form']/div[2]/div/input</value>
-      <webElementGuid>69d30714-29f1-4ba7-bd2a-16f396a06190</webElementGuid>
+      <webElementGuid>85b2e520-9c51-4400-a804-284b1d34cc96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>6c295a8d-4d9c-4e1d-b50d-743d6880a2ad</webElementGuid>
+      <webElementGuid>579d02bf-8496-4b3c-a44e-a886ddc47bd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Email' and @name = 'Email' and @placeholder = 'Email' and @type = 'text']</value>
-      <webElementGuid>f6e46ba4-b994-44f9-90e1-9feb5a9a69e9</webElementGuid>
+      <webElementGuid>ef8ebcda-faa0-4989-807a-096d9492963c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

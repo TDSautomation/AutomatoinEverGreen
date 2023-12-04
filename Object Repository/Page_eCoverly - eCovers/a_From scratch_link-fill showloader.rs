@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_From scratch_link-fill showloader</name>
+   <tag></tag>
+   <elementGuidId>4e172853-8df9-4e0f-8150-d4cb21058bc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rowUserLiting']/div[2]/div/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9dde831d-c2aa-49fc-ac67-814193f642c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Home/ThemeModels?ThemeId=11738&amp;IsAnimated=False&amp;GSModelID=0</value>
+      <webElementGuid>03605b8d-0077-4b0c-b0c1-5b3c20221283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-fill showloader</value>
+      <webElementGuid>69316aa9-1288-4e73-a7da-1cf3b2f2744f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rowUserLiting&quot;)/div[@class=&quot;col-md-3 col-20&quot;]/div[@class=&quot;item general&quot;]/div[@class=&quot;ecover-box&quot;]/div[3]/a[@class=&quot;link-fill showloader&quot;]</value>
+      <webElementGuid>80018c68-90ee-443e-8e24-c8392c3a522a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rowUserLiting']/div[2]/div/div/div[3]/a</value>
+      <webElementGuid>a6ce3b34-95b4-4030-8859-a20f8ba427c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/Home/ThemeModels?ThemeId=11738&amp;IsAnimated=False&amp;GSModelID=0')])[3]</value>
+      <webElementGuid>d1d27492-3954-4e42-9202-b09ea6eeede1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/a</value>
+      <webElementGuid>1b4a2e38-6f59-4d8e-ad8d-bd0d424e07c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Home/ThemeModels?ThemeId=11738&amp;IsAnimated=False&amp;GSModelID=0']</value>
+      <webElementGuid>74d289cf-7a24-4f6a-9802-73186fdd02b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

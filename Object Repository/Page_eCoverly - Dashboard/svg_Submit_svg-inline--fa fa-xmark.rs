@@ -6,12 +6,12 @@
    <elementGuidId>7b2d88eb-c21f-4b9b-a4da-6a9a704a7393</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.modal-content.products-popup-content > button.close > span > svg.svg-inline--fa.fa-xmark</value>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;WebinarPopUp&quot;]/div/div/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::*[name()='svg'][1]</value>
+         <key>CSS</key>
+         <value>div.modal-content.products-popup-content > button.close > span > svg.svg-inline--fa.fa-xmark</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>184310b2-e8db-46ca-b253-e1bac2e186ab</webElementGuid>
+      <webElementGuid>30fb627b-a878-483c-be8a-33c852c8d8e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>svg-inline--fa fa-xmark</value>
-      <webElementGuid>1137d52b-2b7a-4c8e-b22b-454982e0e226</webElementGuid>
+      <webElementGuid>f5122b8f-8d99-470a-a665-5a9a89274ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d1b185a1-51f1-4ceb-a30f-0131308f2dcb</webElementGuid>
+      <webElementGuid>f6baf7ff-c1c0-4de3-aaaa-3428d7c8f2bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>245179e9-bb4d-476d-b77e-0ca3bc5e52ee</webElementGuid>
+      <webElementGuid>63415c82-9b40-4a4f-b872-b8b9d804e97a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-prefix</name>
       <type>Main</type>
       <value>fas</value>
-      <webElementGuid>9691eb7a-ceee-4cc7-85d4-e85b2c2c744b</webElementGuid>
+      <webElementGuid>9e0f66b8-5b38-46e3-ae01-749866fd41ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-icon</name>
       <type>Main</type>
       <value>xmark</value>
-      <webElementGuid>516f29b7-85d6-41ee-8431-97e2dbc6b705</webElementGuid>
+      <webElementGuid>1fec1dbe-c2d9-4e26-a34d-eaaf28b57494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>0cd421fe-8a5b-4821-8cbf-23915d49c1be</webElementGuid>
+      <webElementGuid>ad54d383-a925-4bc1-8c34-22c1528afd42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>963f35ee-b9cc-41dc-a446-b3b1bc0ce8a9</webElementGuid>
+      <webElementGuid>e1ed302f-6e04-4b22-96f8-95627136c70c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 320 512</value>
-      <webElementGuid>2b14e928-c60e-4de9-be36-7a4d206e8cad</webElementGuid>
+      <webElementGuid>58cd044f-c940-44a5-8a0b-80556bde84b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;products_popup&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content products-popup-content&quot;]/button[@class=&quot;close&quot;]/span[1]/svg[@class=&quot;svg-inline--fa fa-xmark&quot;]</value>
-      <webElementGuid>dd881744-29ff-432f-acf8-aa481e6ccb6c</webElementGuid>
+      <webElementGuid>a4166a2c-59fb-4b04-aab8-06469ef337d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>a349fb42-bfc0-433e-9f2d-d6320eba87d4</webElementGuid>
+      <webElementGuid>31299fdc-e8d0-469f-b215-ce0325cdf65c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Email'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>bc2305b6-6fce-4760-9025-faaa171cf644</webElementGuid>
+      <webElementGuid>004601b8-72b7-415c-a5bc-ad9797ff50f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi, Ahmad Tahir'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>86f7f313-9091-44ab-b313-9e498c04a4fc</webElementGuid>
+      <webElementGuid>61f7ee71-4783-4b8d-b0df-6e9a4d93c5ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('You', &quot;'&quot;, 're missing the best features &amp; templates...')])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>2d9bad58-520b-4ab2-b80c-3de43d5dc5a4</webElementGuid>
+      <webElementGuid>cc6337fc-2a4b-4ffd-aa4f-4feb7119b607</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
