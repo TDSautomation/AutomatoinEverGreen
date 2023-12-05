@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Videos_btn btn-flip-action btn-filter-act_113b77</name>
+   <tag></tag>
+   <elementGuidId>5371974c-1894-47c6-a667-6702883e4f6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-flip-action.btn-filter-action.btn-flip-clickbank.default-btn.mb-3.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='ShowStickyPopup();'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3478d163-cd44-44bb-bbb3-ec67f462f0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://members.profitstudio.com/top/sellers</value>
+      <webElementGuid>f001b500-2ea6-47b9-a7d5-101de90d6a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-flip-action btn-filter-action btn-flip-clickbank  default-btn mb-3 mr-2</value>
+      <webElementGuid>f745f1b8-f08a-417c-9e32-e1156ec42348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ShowStickyPopup();</value>
+      <webElementGuid>016dd8f0-1db2-42d6-bc58-169d9ab6b220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;mainWrapper&quot;]/div[@class=&quot;body_container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-12 text-right&quot;]/div[@class=&quot;products-filter-btns-section&quot;]/a[@class=&quot;btn btn-flip-action btn-filter-action btn-flip-clickbank  default-btn mb-3 mr-2&quot;]</value>
+      <webElementGuid>5e699fd9-bafc-4359-82d5-81d77b5226b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='ShowStickyPopup();'])[5]</value>
+      <webElementGuid>2536d4f6-6b8a-4666-a6ad-e841cf8ef68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Videos'])[1]/following::a[2]</value>
+      <webElementGuid>5f50a6c9-1aa4-487c-97a6-4adcce99e267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[1]/following::a[3]</value>
+      <webElementGuid>94f17c6d-3f2a-43ca-b242-1467e0398557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::a[2]</value>
+      <webElementGuid>5f2f3d8b-a10f-4728-a3c6-2fa794f3e1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/preceding::a[2]</value>
+      <webElementGuid>f77824e6-6034-418b-9b79-525cdb6b01bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://members.profitstudio.com/top/sellers')])[3]</value>
+      <webElementGuid>a5c20f97-96b4-4a38-b55e-eccb27f5cb23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>f93a1332-c045-45cc-b9e4-7239321a6786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://members.profitstudio.com/top/sellers']</value>
+      <webElementGuid>2a9509fb-e231-4b3f-9f7e-84e6faade4e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
